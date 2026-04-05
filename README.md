@@ -51,7 +51,7 @@ Sistema web completo para la gestión de asistencias, cargas académicas, docent
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/naixs007/GestionAcademica.git
+git clone https://github.com/Bryan-ArHe/GestionAcademica.git
 cd GestionAcademica
 
 # 2. Instalar dependencias PHP
